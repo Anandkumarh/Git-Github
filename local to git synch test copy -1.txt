@@ -1,0 +1,1 @@
+this is to test local directory to git to synch test copy... 1.txt 
